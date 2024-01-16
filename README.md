@@ -19,8 +19,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/profile-card-using-html-and-css-UyUXVCgEk-)
+- Live Site URL: (https://a-fox-on-the-moon.github.io/profil-card/)
 
 ## My process
 
