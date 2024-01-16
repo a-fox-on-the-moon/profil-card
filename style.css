@@ -24,6 +24,11 @@ body {
   border-radius: 15px;
   width: 25rem;
   margin: 40px 0;
+
+  @media screen and (max-width: 470px) {
+    width: 90%;
+    margin: 40px auto;
+  }
 }
 
 .card-img {
@@ -39,6 +44,10 @@ body {
   border-radius: 50px;
   top: 25%;
   left: 50%;
+
+  @media screen and (max-width: 470px) {
+    width: 85px;
+  }
 }
 
 .main-card h1 {
